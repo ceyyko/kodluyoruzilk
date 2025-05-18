@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Ceyda'nın Kişisel Sayfası</title>
+</head>
+<body>
+    <!-- Başlık -->
+    <h1>Ceyda Yılmaz</h1>
+
+    <!-- Hakkımda Bölümü -->
+    <h2>Hakkımda</h2>
+    <p>Merhaba! Ben yazılım öğrenen bir öğrenciyim. Kitap okumayı, dizi izlemeyi ve doğada vakit geçirmeyi çok severim.</p>
+
+    <!-- Resim ve Açıklama -->
+    <h2>Benim Bir Fotoğrafım</h2>
+    <img src="profil.jpg" alt="Ceyda'nın fotoğrafı" width="250">
+    <p><em>Yazılım öğrenirken çekilmiş bir anımdan.</em></p>
+
+    <!-- Sevdiğim Şeyler -->
+    <h2>Sevdiğim Şeyler</h2>
+
+    <!-- Filmler -->
+    <h3>🎬 Filmler</h3>
+    <ol>
+        <li>
+            Inception - <a href="https://www.imdb.com/title/tt1375666/" target="_blank">IMDb</a>
+            <ul>
+                <li>Bilim kurgu</li>
+                <li>Leonardo DiCaprio</li>
+                <li>Zihin oyunları</li>
+            </ul>
+        </li>
+        <li>
+            Interstellar
+            <ul>
+                <li>Uzay</li>
+                <li>Zaman paradoksu</li>
+                <li>Christopher Nolan</li>
+            </ul>
+        </li>
+    </ol>
+
+    <!-- Diziler -->
+    <h3>📺 Diziler</h3>
+    <ol>
+        <li>
+            Breaking Bad - <a href="https://www.imdb.com/title/tt0903747/" target="_blank">IMDb</a>
+            <ul>
+                <li>Dram</li>
+                <li>Aksiyon</li>
+                <li>Suç</li>
+            </ul>
+        </li>
+        <li>
+            Dark
+            <ul>
+                <li>Bilim kurgu</li>
+                <li>Alman yapımı</li>
+                <li>Karışık zaman çizgisi</li>
+            </ul>
+        </li>
+    </ol>
+
+    <!-- Kitaplar -->
+    <h3>📚 Kitaplar</h3>
+    <ol>
+        <li>
+            Simyacı - <a href="https://www.goodreads.com/book/show/864.Simyac_" target="_blank">Goodreads</a>
+            <ul>
+                <li>Paulo Coelho</li>
+                <li>Felsefi</li>
+                <li>Yolculuk teması</li>
+            </ul>
+        </li>
+        <li>
+            Hayvan Çiftliği
+            <ul>
+                <li>George Orwell</li>
+                <li>Siyasi eleştiri</li>
+                <li>Allegori</li>
+            </ul>
+        </li>
+    </ol>
+
+    <!-- Footer -->
+    <hr>
+    <p><small>&copy; 2025 Ceyda Yılmaz - Tüm hakları saklıdır.</small></p>
+</body>
+</html>
